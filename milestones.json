@@ -20,8 +20,8 @@
     "requiredArcadeBadges": 8,
     "requiredTriviaBadges": 7,
     "requiredSkillBadges": 30,
-    "bonusPoints": 30,
-    "totalPoints": 15
+    "bonusPoints": 15,
+    "totalPoints": 45
   },
   {
     "name": "Ultimate Milestone",
