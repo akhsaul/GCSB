@@ -1,137 +1,187 @@
 [
   {
-    "id": 1,
+    "id": 6310,
     "title": "Level 1: Core Infrastructure and Security",
     "category": "games",
-    "accessCode": "1q-security-10292",
-    "totalLabs": 1,
-    "totalPoints": 20,
     "imageUrl": "https://cdn.qwiklabs.com/rkL0SVAyPxbi8qK2XYqldHt6RLpSgshWSGzOTUPMgek%3D",
+    "totalLabs": 12,
+    "totalPoints": 1,
+    "accessCode": "1q-security-10292",
     "challengeUrl": "https://www.cloudskillsboost.google/games/6310",
     "labs": [
-      "GSP-001"
+      "GSP002",
+      "GSP073",
+      "GSP074",
+      "GSP008",
+      "GSP031",
+      "GSP007",
+      "GSP244",
+      "GSP064",
+      "GSP112",
+      "GSP297",
+      "GSP975",
+      "GSP215"
     ]
   },
   {
-    "id": 2,
-    "title": "Introduction to Large Language Models",
-    "category": "skill",
-    "accessCode": null,
-    "totalLabs": 1,
-    "totalPoints": 20,
-    "imageUrl": "https://cdn.qwiklabs.com/gTHGn4aAXNnBs%2FPn0%2BsxXKt6D%2Ba1B2wb9xFm7qJdlhM%3D",
-    "challengeUrl": "https://www.cloudskillsboost.google/paths/119",
-    "labs": [
-      "GSP-002"
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Get Started with Looker",
-    "category": "skill",
-    "accessCode": "1q-analytics-345",
-    "totalLabs": 5,
-    "totalPoints": 100,
-    "imageUrl": "https://cdn.qwiklabs.com/2jVYdMYdqMmCT5r6s8jJv9e0gTpZb9xWGSgTqKcMFSU%3D",
-    "challengeUrl": "https://www.cloudskillsboost.google/paths/143",
-    "labs": [
-      "GSP-003",
-      "GSP-004",
-      "GSP-005",
-      "GSP-006",
-      "GSP-007"
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Cloud Computing Quiz",
-    "category": "trivia",
-    "accessCode": null,
-    "totalLabs": 1,
-    "totalPoints": 15,
-    "imageUrl": "https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D",
-    "challengeUrl": "https://www.cloudskillsboost.google/quizzes/123",
-    "labs": [
-      "GSP-008"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Level 3: GenAI",
+    "id": 6311,
+    "title": "Level 2: Modern Application Deployment",
     "category": "games",
-    "accessCode": "genai-game-789",
-    "totalLabs": 3,
-    "totalPoints": 45,
-    "imageUrl": "https://cdn.qwiklabs.com/M7bj0%2FsJIZIoqz5MhtHNyGwM9N%2FvgKG8Cw3O1aJR2yM%3D",
-    "challengeUrl": "https://www.cloudskillsboost.google/games/5678",
+    "imageUrl": "https://cdn.qwiklabs.com/%2FlmnsaZW3c4Wvtys6EJic1JULjVO0gQVNfAyc%2BXOjZw%3D",
+    "totalLabs": 12,
+    "totalPoints": 1,
+    "accessCode": "1q-application-71322",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/6311",
     "labs": [
-      "GSP-009",
-      "GSP-010",
-      "GSP-011"
+      "GSP005",
+      "GSP015",
+      "GSP023",
+      "GSP957",
+      "GSP021",
+      "GSP053",
+      "GSP081",
+      "GSP080",
+      "GSP644",
+      "GSP1078",
+      "GSP650",
+      "GSP1079"
     ]
   },
   {
-    "id": 6,
-    "title": "Monitor and Log with Google Cloud Observability",
-    "category": "fast-track",
-    "accessCode": "obs-monitoring-456",
+    "id": 6312,
+    "title": "Level 3: Advanced App Operations",
+    "category": "games",
+    "imageUrl": "https://cdn.qwiklabs.com/J%2BTzMh2NydPu1JgJZC1q2D5V1oQv2rQ%2FSYKUv2iH4%2BU%3D",
     "totalLabs": 8,
-    "totalPoints": 160,
+    "totalPoints": 1,
+    "accessCode": "1q-advanced-1000",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/6312",
+    "labs": [
+      "gem-cloud-run-caddy-website",
+      "gem-cloud-run-nginx-website",
+      "gem-cloud-run-traefik-website",
+      "gem-artifact-registry-container",
+      "gem-artifact-registry-go",
+      "gem-artifact-registry-npm",
+      "gem-artifact-registry-python",
+      "gem-artifact-registry-maven"
+    ]
+  },
+  {
+    "id": 6313,
+    "title": "Skills Boost Arcade Base Camp July 2025",
+    "category": "games",
+    "imageUrl": "https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D",
+    "totalLabs": 12,
+    "totalPoints": 1,
+    "accessCode": "1q-basecamp-07190",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/6313",
+    "labs": [
+      "GSP103",
+      "GSP850",
+      "GSP1097",
+      "GSP919",
+      "GSP1048",
+      "GSP096",
+      "GSP094",
+      "GSP192",
+      "GSP136",
+      "GSP932",
+      "GSP935",
+      "GSP1043"
+    ],
+    "deadline": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": 6375,
+    "title": "Skills Boost Arcade Certification Zone July 2025",
+    "category": "games",
+    "imageUrl": "https://cdn.qwiklabs.com/M7bj0%2FsJIZIoqz5MhtHNyGwM9N%2FvgKG8Cw3O1aJR2yM%3D",
+    "totalLabs": 8,
+    "totalPoints": 1,
+    "accessCode": "1q-cert-19910",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/6375",
+    "labs": [
+      "GSP089",
+      "GSP610",
+      "GSP401",
+      "GSP449",
+      "GSP178",
+      "GSP090",
+      "GSP1143",
+      "GSP1051"
+    ],
+    "deadline": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": 6314,
+    "title": "Skills Boost Arcade Trivia July 2025 Week 1",
+    "category": "trivia",
     "imageUrl": "https://cdn.qwiklabs.com/niOAqPIzm3%2FISGHDZJDcXqYxMeMLaswWjFq%2B5Y8b%2BRo%3D",
-    "challengeUrl": "https://www.cloudskillsboost.google/paths/99",
-    "labs": [
-      "GSP-012",
-      "GSP-013",
-      "GSP-014",
-      "GSP-015",
-      "GSP-016",
-      "GSP-017",
-      "GSP-018",
-      "GSP-019"
-    ]
+    "totalLabs": 4,
+    "totalPoints": 1,
+    "accessCode": "1q-trivia-19029",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/6314",
+    "labs": ["GSP038", "GSP924", "GSP856", "Quiz"]
   },
   {
-    "id": 7,
-    "title": "Security Quiz Challenge",
+    "id": 6315,
+    "title": "Skills Boost Arcade Trivia July 2025 Week 2",
     "category": "trivia",
-    "accessCode": null,
-    "totalLabs": 1,
-    "totalPoints": 20,
     "imageUrl": "https://cdn.qwiklabs.com/dKE5J0cIGrTw%2B%2FsD8o8fQwWGk9FxE2mB%2F3DtQs4nL8A%3D",
-    "challengeUrl": "https://www.cloudskillsboost.google/quizzes/456",
-    "labs": [
-      "GSP-020"
-    ]
+    "totalLabs": 4,
+    "totalPoints": 1,
+    "accessCode": "1q-trivia-32292",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/6315",
+    "labs": ["GSP1088", "GSP1098", "GSP1164", "Quiz"]
   },
   {
-    "id": 8,
-    "title": "The Arcade Trivia December 2024",
+    "id": 6316,
+    "title": "Skills Boost Arcade Trivia July 2025 Week 3",
     "category": "trivia",
-    "accessCode": null,
-    "totalLabs": 1,
-    "totalPoints": 25,
     "imageUrl": "https://cdn.qwiklabs.com/UkFlJfrzAfhZ%2Bzrr3%2F9cCgYh7NoqB6%2BtqXfmvGDkA%3D",
-    "challengeUrl": "https://www.cloudskillsboost.google/arcade/trivia",
-    "labs": [
-      "GSP-021"
-    ]
+    "totalLabs": 4,
+    "totalPoints": 1,
+    "accessCode": "1q-trivia-70043",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/6316",
+    "labs": ["GSP864", "GSP035", "GSP948", "Quiz"]
   },
   {
-    "id": 9,
-    "title": "Google Cloud Fundamentals: Core Infrastructure",
-    "category": "fast-track",
-    "accessCode": "core-infra-123",
-    "totalLabs": 6,
-    "totalPoints": 120,
+    "id": 6317,
+    "title": "Skills Boost Arcade Trivia July 2025 Week 4",
+    "category": "trivia",
     "imageUrl": "https://cdn.qwiklabs.com/rV5R5+Fp3Cv+YVJ6y4mhqhAIXxuZGvyVJjJVrzv8gKY%3D",
-    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/60",
+    "totalLabs": 4,
+    "totalPoints": 1,
+    "accessCode": "1q-trivia-55192",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/6317",
+    "labs": ["GSP676", "GSP687", "GSP910", "Quiz"]
+  },
+  {
+    "id": 754,
+    "title": "The Basics of Google Cloud Compute",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/NF0NyO9bRbljief2SSKZl6cc8Y7kMrCPExD%2FZ6YbS5M%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/754",
+    "labs": ["GSP001", "GSP004", "GSP662", "ARC120"]
+  },
+  {
+    "id": 671,
+    "title": "App Engine: 3 Ways",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/%2Fus%2B9SsjBJvNFaAG9KABofDumpomMuhFAIJrP23UqIE%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/671",
     "labs": [
-      "GSP-022",
-      "GSP-023",
-      "GSP-024",
-      "GSP-025",
-      "GSP-026",
-      "GSP-027"
+        "GSP067",
+        "GSP070",
+        "GSP069",
+        "ARC112"
     ]
   }
 ]
