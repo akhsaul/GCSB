@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "How to find your GCSB public profile URL",
+    "content": "Learn how to locate and share your Google Cloud Skills Boost public profile URL to track your progress and achievements."
+  },
+  {
+    "id": 2,
+    "title": "How to redeem credit",
+    "content": "Step-by-step guide on redeeming Google Cloud credits for hands-on labs and practical exercises."
+  },
+  {
+    "id": 3,
+    "title": "Understanding badge completion requirements",
+    "content": "Detailed explanation of what constitutes badge completion and how to ensure you meet all requirements."
+  },
+  {
+    "id": 4,
+    "title": "Tips for maximizing your Arcade score",
+    "content": "Strategies and best practices to optimize your performance in Google Cloud Arcade challenges."
+  },
+  {
+    "id": 5,
+    "title": "Troubleshooting common lab issues",
+    "content": "Solutions to frequently encountered problems when working through hands-on labs."
+  }
+]
