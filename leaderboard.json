@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Chen",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Champion",
+    "skillPoints": 245,
+    "triviaPoints": 180,
+    "arcadePoints": 320,
+    "bonusPoints": 55,
+    "totalPoints": 800
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b613bb79?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Legend",
+    "skillPoints": 280,
+    "triviaPoints": 195,
+    "arcadePoints": 285,
+    "bonusPoints": 40,
+    "totalPoints": 800
+  },
+  {
+    "id": 3,
+    "name": "Michael Rodriguez",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Ranger",
+    "skillPoints": 220,
+    "triviaPoints": 165,
+    "arcadePoints": 295,
+    "bonusPoints": 45,
+    "totalPoints": 725
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Champion",
+    "skillPoints": 195,
+    "triviaPoints": 140,
+    "arcadePoints": 310,
+    "bonusPoints": 35,
+    "totalPoints": 680
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Trooper",
+    "skillPoints": 175,
+    "triviaPoints": 125,
+    "arcadePoints": 275,
+    "bonusPoints": 25,
+    "totalPoints": 600
+  },
+  {
+    "id": 6,
+    "name": "Lisa Thompson",
+    "avatar": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Ranger",
+    "skillPoints": 160,
+    "triviaPoints": 110,
+    "arcadePoints": 250,
+    "bonusPoints": 30,
+    "totalPoints": 550
+  },
+  {
+    "id": 7,
+    "name": "James Wilson",
+    "avatar": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Trooper",
+    "skillPoints": 145,
+    "triviaPoints": 95,
+    "arcadePoints": 225,
+    "bonusPoints": 20,
+    "totalPoints": 485
+  },
+  {
+    "id": 8,
+    "name": "Anna Martinez",
+    "avatar": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Novice",
+    "skillPoints": 130,
+    "triviaPoints": 80,
+    "arcadePoints": 200,
+    "bonusPoints": 15,
+    "totalPoints": 425
+  },
+  {
+    "id": 9,
+    "name": "Chris Brown",
+    "avatar": "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Trooper",
+    "skillPoints": 115,
+    "triviaPoints": 65,
+    "arcadePoints": 175,
+    "bonusPoints": 10,
+    "totalPoints": 365
+  },
+  {
+    "id": 10,
+    "name": "Maria Garcia",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&h=150&fit=crop&crop=face",
+    "milestone": "Novice",
+    "skillPoints": 100,
+    "triviaPoints": 50,
+    "arcadePoints": 150,
+    "bonusPoints": 5,
+    "totalPoints": 305
+  }
+]
