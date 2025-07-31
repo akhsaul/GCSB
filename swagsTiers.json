@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Arcade Novice",
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=200&h=200&fit=crop",
+    "requiredTotalBadges": 3,
+    "requiredPoints": 25,
+    "description": "Welcome to the Cloud Arcade! Get started with basic swag.",
+    "goods": [
+      {
+        "name": "Digital Badge",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
+        "description": "Showcase your achievement with a digital badge"
+      },
+      {
+        "name": "Completion Certificate",
+        "image": "https://images.unsplash.com/photo-1549421263-6064833b071b?w=150&h=150&fit=crop",
+        "description": "Official certificate of completion"
+      }
+    ]
+  },
+  {
+    "name": "Arcade Trooper",
+    "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=200&h=200&fit=crop",
+    "requiredTotalBadges": 8,
+    "requiredPoints": 200,
+    "description": "Level up your cloud skills and earn trooper-level rewards.",
+    "goods": [
+      {
+        "name": "Google Cloud Stickers",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=150&h=150&fit=crop",
+        "description": "Premium sticker pack for your laptop"
+      },
+      {
+        "name": "Digital Badge",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
+        "description": "Advanced digital badge"
+      },
+      {
+        "name": "Completion Certificate",
+        "image": "https://images.unsplash.com/photo-1549421263-6064833b071b?w=150&h=150&fit=crop",
+        "description": "Trooper level certificate"
+      }
+    ]
+  },
+  {
+    "name": "Arcade Ranger",
+    "imageUrl": "https://images.unsplash.com/photo-1521791055366-0d553872125f?w=200&h=200&fit=crop",
+    "requiredTotalBadges": 14,
+    "requiredPoints": 400,
+    "description": "Master cloud technologies and unlock ranger-tier swag.",
+    "goods": [
+      {
+        "name": "Google Cloud Hoodie",
+        "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=150&h=150&fit=crop",
+        "description": "Comfortable hoodie with Google Cloud branding"
+      },
+      {
+        "name": "Google Cloud Stickers",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=150&h=150&fit=crop",
+        "description": "Premium sticker pack"
+      },
+      {
+        "name": "Digital Badge",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
+        "description": "Ranger digital badge"
+      }
+    ]
+  },
+  {
+    "name": "Arcade Champion",
+    "imageUrl": "https://images.unsplash.com/photo-1608662184689-bb542d4a6e4f?w=200&h=200&fit=crop",
+    "requiredTotalBadges": 22,
+    "requiredPoints": 800,
+    "description": "Become a cloud champion with exclusive premium rewards.",
+    "goods": [
+      {
+        "name": "Google Cloud T-shirt",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=150&h=150&fit=crop",
+        "description": "Premium Google Cloud t-shirt"
+      },
+      {
+        "name": "Google Cloud Water Bottle",
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=150&h=150&fit=crop",
+        "description": "Insulated water bottle with Google Cloud logo"
+      },
+      {
+        "name": "Google Cloud Hoodie",
+        "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=150&h=150&fit=crop",
+        "description": "Premium hoodie"
+      },
+      {
+        "name": "Digital Badge",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
+        "description": "Champion digital badge"
+      }
+    ]
+  },
+  {
+    "name": "Arcade Legend",
+    "imageUrl": "https://images.unsplash.com/photo-1586244439413-bc2288941dda?w=200&h=200&fit=crop",
+    "requiredTotalBadges": 34,
+    "requiredPoints": 1500,
+    "description": "Achieve legendary status with the ultimate swag collection.",
+    "goods": [
+      {
+        "name": "Google Cloud Backpack",
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=150&h=150&fit=crop",
+        "description": "Premium backpack with Google Cloud branding"
+      },
+      {
+        "name": "Google Cloud Notebook",
+        "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=150&h=150&fit=crop",
+        "description": "High-quality notebook for your cloud journey"
+      },
+      {
+        "name": "Google Cloud T-shirt",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=150&h=150&fit=crop",
+        "description": "Exclusive legend t-shirt"
+      },
+      {
+        "name": "Google Cloud Water Bottle",
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=150&h=150&fit=crop",
+        "description": "Premium water bottle"
+      },
+      {
+        "name": "Digital Badge",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
+        "description": "Legendary digital badge"
+      }
+    ]
+  }
+]
