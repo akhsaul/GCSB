@@ -2,15 +2,27 @@
   {
     "id": 1,
     "name": "Ikhsan Maulana",
-    "email": "ikhsan@example.com",
     "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&h=150&fit=crop&crop=face",
-    "isActive": true
+    "isActive": true,
+    "skillBadges": [
+      { "id": 2, "earnedDate": "2024-12-10T10:00:00Z" }
+    ],
+    "triviaBadges": [
+      { "id": 7, "earnedDate": "2024-12-12T10:00:00Z" }
+    ],
+    "arcadeBadges": [
+      { "id": 1, "earnedDate": "2024-12-15T10:00:00Z" }
+    ],
+    "profileUrl": "https://www.cloudskillsboost.google/public_profiles/1"
   },
   {
     "id": 2,
     "name": "John Doe",
-    "email": "john@example.com",
     "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
-    "isActive": false
+    "isActive": false,
+    "skillBadges": [],
+    "triviaBadges": [],
+    "arcadeBadges": [],
+    "profileUrl": "https://www.cloudskillsboost.google/public_profiles/2"
   }
 ]
