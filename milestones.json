@@ -1,34 +1,34 @@
 [
   {
     "name": "Milestone 1",
-    "requiredArcadeBadges": 1,
-    "requiredTriviaBadges": 1,
-    "requiredSkillBadges": 1,
-    "bonusPoints": 0,
-    "totalPoints": 60
+    "requiredArcadeBadges": 4,
+    "requiredTriviaBadges": 4,
+    "requiredSkillBadges": 10,
+    "bonusPoints": 5,
+    "totalPoints": 18
   },
   {
     "name": "Milestone 2",
-    "requiredArcadeBadges": 3,
-    "requiredTriviaBadges": 2,
-    "requiredSkillBadges": 3,
-    "bonusPoints": 50,
-    "totalPoints": 250
+    "requiredArcadeBadges": 6,
+    "requiredTriviaBadges": 6,
+    "requiredSkillBadges": 20,
+    "bonusPoints": 10,
+    "totalPoints": 32
   },
   {
     "name": "Milestone 3",
-    "requiredArcadeBadges": 5,
-    "requiredTriviaBadges": 4,
-    "requiredSkillBadges": 5,
-    "bonusPoints": 100,
-    "totalPoints": 500
+    "requiredArcadeBadges": 8,
+    "requiredTriviaBadges": 7,
+    "requiredSkillBadges": 30,
+    "bonusPoints": 30,
+    "totalPoints": 15
   },
   {
     "name": "Ultimate Milestone",
-    "requiredArcadeBadges": 8,
-    "requiredTriviaBadges": 6,
-    "requiredSkillBadges": 8,
-    "bonusPoints": 200,
-    "totalPoints": 800
+    "requiredArcadeBadges": 10,
+    "requiredTriviaBadges": 8,
+    "requiredSkillBadges": 44,
+    "bonusPoints": 25,
+    "totalPoints": 65
   }
 ]
