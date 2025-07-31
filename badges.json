@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Level 1: Core Infrastructure and Security",
+    "category": "games",
+    "accessCode": "1q-security-10292",
+    "totalLabs": 1,
+    "totalPoints": 20,
+    "imageUrl": "https://cdn.qwiklabs.com/rkL0SVAyPxbi8qK2XYqldHt6RLpSgshWSGzOTUPMgek%3D",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/6310",
+    "labs": [
+      "GSP-001"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Large Language Models",
+    "category": "skill",
+    "accessCode": null,
+    "totalLabs": 1,
+    "totalPoints": 20,
+    "imageUrl": "https://cdn.qwiklabs.com/gTHGn4aAXNnBs%2FPn0%2BsxXKt6D%2Ba1B2wb9xFm7qJdlhM%3D",
+    "challengeUrl": "https://www.cloudskillsboost.google/paths/119",
+    "labs": [
+      "GSP-002"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Get Started with Looker",
+    "category": "skill",
+    "accessCode": "1q-analytics-345",
+    "totalLabs": 5,
+    "totalPoints": 100,
+    "imageUrl": "https://cdn.qwiklabs.com/2jVYdMYdqMmCT5r6s8jJv9e0gTpZb9xWGSgTqKcMFSU%3D",
+    "challengeUrl": "https://www.cloudskillsboost.google/paths/143",
+    "labs": [
+      "GSP-003",
+      "GSP-004",
+      "GSP-005",
+      "GSP-006",
+      "GSP-007"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Cloud Computing Quiz",
+    "category": "trivia",
+    "accessCode": null,
+    "totalLabs": 1,
+    "totalPoints": 15,
+    "imageUrl": "https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D",
+    "challengeUrl": "https://www.cloudskillsboost.google/quizzes/123",
+    "labs": [
+      "GSP-008"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Level 3: GenAI",
+    "category": "games",
+    "accessCode": "genai-game-789",
+    "totalLabs": 3,
+    "totalPoints": 45,
+    "imageUrl": "https://cdn.qwiklabs.com/M7bj0%2FsJIZIoqz5MhtHNyGwM9N%2FvgKG8Cw3O1aJR2yM%3D",
+    "challengeUrl": "https://www.cloudskillsboost.google/games/5678",
+    "labs": [
+      "GSP-009",
+      "GSP-010",
+      "GSP-011"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Monitor and Log with Google Cloud Observability",
+    "category": "fast-track",
+    "accessCode": "obs-monitoring-456",
+    "totalLabs": 8,
+    "totalPoints": 160,
+    "imageUrl": "https://cdn.qwiklabs.com/niOAqPIzm3%2FISGHDZJDcXqYxMeMLaswWjFq%2B5Y8b%2BRo%3D",
+    "challengeUrl": "https://www.cloudskillsboost.google/paths/99",
+    "labs": [
+      "GSP-012",
+      "GSP-013",
+      "GSP-014",
+      "GSP-015",
+      "GSP-016",
+      "GSP-017",
+      "GSP-018",
+      "GSP-019"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Security Quiz Challenge",
+    "category": "trivia",
+    "accessCode": null,
+    "totalLabs": 1,
+    "totalPoints": 20,
+    "imageUrl": "https://cdn.qwiklabs.com/dKE5J0cIGrTw%2B%2FsD8o8fQwWGk9FxE2mB%2F3DtQs4nL8A%3D",
+    "challengeUrl": "https://www.cloudskillsboost.google/quizzes/456",
+    "labs": [
+      "GSP-020"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The Arcade Trivia December 2024",
+    "category": "trivia",
+    "accessCode": null,
+    "totalLabs": 1,
+    "totalPoints": 25,
+    "imageUrl": "https://cdn.qwiklabs.com/UkFlJfrzAfhZ%2Bzrr3%2F9cCgYh7NoqB6%2BtqXfmvGDkA%3D",
+    "challengeUrl": "https://www.cloudskillsboost.google/arcade/trivia",
+    "labs": [
+      "GSP-021"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Google Cloud Fundamentals: Core Infrastructure",
+    "category": "fast-track",
+    "accessCode": "core-infra-123",
+    "totalLabs": 6,
+    "totalPoints": 120,
+    "imageUrl": "https://cdn.qwiklabs.com/rV5R5+Fp3Cv+YVJ6y4mhqhAIXxuZGvyVJjJVrzv8gKY%3D",
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/60",
+    "labs": [
+      "GSP-022",
+      "GSP-023",
+      "GSP-024",
+      "GSP-025",
+      "GSP-026",
+      "GSP-027"
+    ]
+  }
+]
