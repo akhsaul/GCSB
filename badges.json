@@ -183,5 +183,103 @@
         "GSP069",
         "ARC112"
     ]
-  }
+  },
+  {
+    "id": 728,
+    "title": "Get Started with Pub/Sub",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/HP9Ywd7AVBphHAM4HC26Pa3gYdv3Pu15QWZdVjNrbAc%3D",
+    "totalLabs": 3,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/728",
+    "labs": [
+        "GSP096",
+        "GSP401",
+        "ARC113"
+    ]
+  },
+  
+  {
+    "id": 725,
+    "title": "Get Started with Cloud Storage",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/kuaGVEw6SmwSZvIEmzgw20IjhRG18j1ZYD40NowhrO4%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/725",
+    "labs": [
+        "GSP421",
+      "GSP074",
+      "GSP297",
+      "ARC111"
+    ]
+  },
+  
+  {
+    "id": 755,
+    "title": "Use APIs to Work with Cloud Storage",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/d1mWg2UMiEJvwUnG3vIA%2B6lfBHcIY%2BSa5wZFAFWlRro%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/755",
+    "labs": [
+    ]
+  },
+  
+  {
+    "id": 662,
+    "title": "Get Started with API Gateway",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/p4abbcLtmsng92YCgnUZjS41b6t6vr%2FcebRrv0wBroE%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/662",
+    "labs": [
+    ]
+  },
+  
+  {
+    "id": 641,
+    "title": "Set Up a Google Cloud Network",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/P6PceikZdcz7In0v425%2FBJKDtwqEc4AO5QWdHafzZf4%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/641",
+    "labs": [
+        "GSP067",
+    ]
+  },
+  
+  {
+    "id": 748,
+    "title": "Networking Fundamentals on Google Cloud",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/gKmq6yHaB6FrhdMvrN50%2BaQ%2Fn%2FhoN2MWxXg9OkOA4RA%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/748",
+    "labs": [
+    ]
+  },
+  
+  {
+    "id": 726,
+    "title": "Get Started with Dataplex",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/2tJ1LSxF0ZRz71mWC1oyfMl71xyysS8RcfJThsnrXTM%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/726",
+    "labs": [
+    ]
+  },
 ]
