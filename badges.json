@@ -122,7 +122,12 @@
     "totalPoints": 1,
     "accessCode": "1q-trivia-19029",
     "challengeUrl": "https://www.cloudskillsboost.google/games/6314",
-    "labs": ["GSP038", "GSP924", "GSP856", "Quiz"]
+    "labs": [
+      "GSP038",
+      "GSP924",
+      "GSP856",
+      "Quiz"
+    ]
   },
   {
     "id": 6315,
@@ -133,7 +138,12 @@
     "totalPoints": 1,
     "accessCode": "1q-trivia-32292",
     "challengeUrl": "https://www.cloudskillsboost.google/games/6315",
-    "labs": ["GSP1088", "GSP1098", "GSP1164", "Quiz"]
+    "labs": [
+      "GSP1088",
+      "GSP1098",
+      "GSP1164",
+      "Quiz"
+    ]
   },
   {
     "id": 6316,
@@ -144,7 +154,12 @@
     "totalPoints": 1,
     "accessCode": "1q-trivia-70043",
     "challengeUrl": "https://www.cloudskillsboost.google/games/6316",
-    "labs": ["GSP864", "GSP035", "GSP948", "Quiz"]
+    "labs": [
+      "GSP864",
+      "GSP035",
+      "GSP948",
+      "Quiz"
+    ]
   },
   {
     "id": 6317,
@@ -155,7 +170,12 @@
     "totalPoints": 1,
     "accessCode": "1q-trivia-55192",
     "challengeUrl": "https://www.cloudskillsboost.google/games/6317",
-    "labs": ["GSP676", "GSP687", "GSP910", "Quiz"]
+    "labs": [
+      "GSP676",
+      "GSP687",
+      "GSP910",
+      "Quiz"
+    ]
   },
   {
     "id": 754,
@@ -166,7 +186,12 @@
     "totalPoints": 0.5,
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/754",
-    "labs": ["GSP001", "GSP004", "GSP662", "ARC120"]
+    "labs": [
+      "GSP001",
+      "GSP004",
+      "GSP662",
+      "ARC120"
+    ]
   },
   {
     "id": 671,
@@ -178,10 +203,10 @@
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/671",
     "labs": [
-        "GSP067",
-        "GSP070",
-        "GSP069",
-        "ARC112"
+      "GSP067",
+      "GSP070",
+      "GSP069",
+      "ARC112"
     ]
   },
   {
@@ -194,12 +219,11 @@
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/728",
     "labs": [
-        "GSP096",
-        "GSP401",
-        "ARC113"
+      "GSP096",
+      "GSP401",
+      "ARC113"
     ]
   },
-  
   {
     "id": 725,
     "title": "Get Started with Cloud Storage",
@@ -210,13 +234,12 @@
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/725",
     "labs": [
-        "GSP421",
+      "GSP421",
       "GSP074",
       "GSP297",
       "ARC111"
     ]
   },
-  
   {
     "id": 755,
     "title": "Use APIs to Work with Cloud Storage",
@@ -226,10 +249,8 @@
     "totalPoints": 0.5,
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/755",
-    "labs": [
-    ]
+    "labs": []
   },
-  
   {
     "id": 662,
     "title": "Get Started with API Gateway",
@@ -239,10 +260,8 @@
     "totalPoints": 0.5,
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/662",
-    "labs": [
-    ]
+    "labs": []
   },
-  
   {
     "id": 641,
     "title": "Set Up a Google Cloud Network",
@@ -253,10 +272,9 @@
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/641",
     "labs": [
-        "GSP067",
+      "GSP067"
     ]
   },
-  
   {
     "id": 748,
     "title": "Networking Fundamentals on Google Cloud",
@@ -266,10 +284,8 @@
     "totalPoints": 0.5,
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/748",
-    "labs": [
-    ]
+    "labs": []
   },
-  
   {
     "id": 726,
     "title": "Get Started with Dataplex",
@@ -279,7 +295,6 @@
     "totalPoints": 0.5,
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/726",
-    "labs": [
-    ]
-  },
+    "labs": []
+  }
 ]
