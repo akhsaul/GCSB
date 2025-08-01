@@ -307,5 +307,16 @@
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/756",
     "labs": []
+  },
+  {
+    "id": 648,
+    "title": "Implement Load Balancing on Compute Engine",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/QlR8VSC38qpQUHJPs6pq2%2F330l9KejU8QDuxYF7cewo%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/648",
+    "labs": []
   }
 ]
