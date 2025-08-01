@@ -2,7 +2,6 @@
   {
     "name": "Arcade Novice",
     "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=200&h=200&fit=crop",
-    "requiredTotalBadges": 3,
     "requiredPoints": 25,
     "description": "Welcome to the Cloud Arcade! Get started with basic swag.",
     "goods": [
@@ -21,7 +20,6 @@
   {
     "name": "Arcade Trooper",
     "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=200&h=200&fit=crop",
-    "requiredTotalBadges": 8,
     "requiredPoints": 200,
     "description": "Level up your cloud skills and earn trooper-level rewards.",
     "goods": [
@@ -45,7 +43,6 @@
   {
     "name": "Arcade Ranger",
     "imageUrl": "https://images.unsplash.com/photo-1521791055366-0d553872125f?w=200&h=200&fit=crop",
-    "requiredTotalBadges": 14,
     "requiredPoints": 400,
     "description": "Master cloud technologies and unlock ranger-tier swag.",
     "goods": [
@@ -69,7 +66,6 @@
   {
     "name": "Arcade Champion",
     "imageUrl": "https://images.unsplash.com/photo-1608662184689-bb542d4a6e4f?w=200&h=200&fit=crop",
-    "requiredTotalBadges": 22,
     "requiredPoints": 800,
     "description": "Become a cloud champion with exclusive premium rewards.",
     "goods": [
@@ -98,7 +94,6 @@
   {
     "name": "Arcade Legend",
     "imageUrl": "https://images.unsplash.com/photo-1586244439413-bc2288941dda?w=200&h=200&fit=crop",
-    "requiredTotalBadges": 34,
     "requiredPoints": 1500,
     "description": "Achieve legendary status with the ultimate swag collection.",
     "goods": [
