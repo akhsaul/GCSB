@@ -296,5 +296,16 @@
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/726",
     "labs": []
+  },
+  {
+    "id": 756,
+    "title": "Using the Google Cloud Speech API",
+    "category": "skill",
+    "imageUrl": "https://cdn.qwiklabs.com/4ofkN4%2BKKacdIrTvLp1ZSAGImsdSAJvyRtXoK4D%2BZSE%3D",
+    "totalLabs": 4,
+    "totalPoints": 0.5,
+    "accessCode": null,
+    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/756",
+    "labs": []
   }
 ]
