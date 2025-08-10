@@ -2,125 +2,175 @@
   {
     "name": "Arcade Novice",
     "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=200&h=200&fit=crop",
-    "requiredPoints": 25,
+    "requiredPoints": 20,
     "description": "Welcome to the Cloud Arcade! Get started with basic swag.",
     "goods": [
       {
-        "name": "Digital Badge",
-        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
-        "description": "Showcase your achievement with a digital badge"
+        "name": "The Arcade Mug",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/0/2/02257e56486630e6c505ff75a5a61fb56640a314.gif",
+        "description": "A classic that never gets old. This 350ml cup features a beautifully crafted wooden handle and a matching coaster lid. Designed to be easy on the eyes and great in your hands, it's a perfect blend of style and practicality. Eco-friendly and made for everyday use, this cup complements any workspace or cozy corner while supporting sustainable choices."
       },
       {
-        "name": "Completion Certificate",
-        "image": "https://images.unsplash.com/photo-1549421263-6064833b071b?w=150&h=150&fit=crop",
-        "description": "Official certificate of completion"
+        "name": "The Arcade Laptop Stand",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/9/b/9bab515c967283cc14bbb94a089dadc3e17a25ca.gif",
+        "description": "Back by demand, better than ever. This laptop stand offers sturdy, lightweight support for your desk setup while maintaining a sleek, open design that promotes airflow and keeps your tech cool. Compatible with laptops up to 15.6 inches, it's engineered for everyday efficiency. As a bonus, it features a built-in phone stand, keeping all your essentials within easy reach—making multitasking a breeze."
+      },
+      {
+        "name": "The Arcade Novice T-shirt",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/f/d/fd193add717a04766732609e97d1b08da451ace0.gif",
+        "description": "Ready to take your first steps into the exciting world of Google Cloud? Mark your beginning and wear your potential with your new essential gear: The Google Cloud Essential T-shirt! This classic black, round-neck t-shirt is more than just comfortable; it’s a symbol of your curiosity, your commitment to learning, and your entry into the innovative community of Google Cloud.\n\nHere’s why this essential t-shirt is the perfect way to kick off your cloud journey:\n\n* **Comfort for Every Exploration:** Discover the ease of this t-shirt. Made from a soft, comfortable fabric, it’s designed to be perfect for your initial coding exercises, attending virtual workshops, or simply relaxing as you absorb new knowledge.\n* **Built to Support Your Start:** With its reliable construction and comfortable fit, this t-shirt is ready to accompany you through every tutorial, celebrate your first successful deployments, and provide comfort as you learn and grow. It’s a garment that supports you as you begin your adventure.\n* **Simple Style, Ready for Growth:** From focused learning sessions at your desk to casual online meetups with fellow novices, or just unwinding after a productive day, this t-shirt fits seamlessly. It offers a touch of modern simplicity and a clear indication of your budding affiliation with Google Cloud.\n* **Classic Black, Cloud Ready:** Embrace the power of timeless simplicity as you prepare for innovation. This t-shirt comes in a deep, classic black, serving as the perfect versatile piece for any outfit while proudly displaying the Google Cloud Logo."
+      },
+      {
+        "name": "Google Cloud Pin Badges",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/f/3/f30759a94646c28d1d39c120df479eca868bc1fd.gif",
+        "description": "Whether you’re just getting started or picking up speed, these polished enamel pins are a sleek way to show you’re in the game.\n\n**Why You’ll Want Them:**\n\n* **Seriously Collectible**\nAdd a pop of pride to your backpack, jacket, or lanyard with these clean and colorful pins.\n* **Built to Last**\nSturdy and secure, they’re made to move with you through every challenge.\n* **Quiet Flex**\nNo need to say a word—these pins do the talking."
       }
     ]
   },
   {
     "name": "Arcade Trooper",
     "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=200&h=200&fit=crop",
-    "requiredPoints": 200,
+    "requiredPoints": 40,
     "description": "Level up your cloud skills and earn trooper-level rewards.",
     "goods": [
       {
-        "name": "Google Cloud Stickers",
-        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=150&h=150&fit=crop",
-        "description": "Premium sticker pack for your laptop"
+        "name": "The Arcade Trooper Backpack",
+        "image": "https://cdn.jsdelivr.net/gh/deepanshu-prajapati01/image-host/ArcadeCalc/swags/tier2/bag.png",
+        "description": "* **Fits Your Laptop:** Holds laptops up to 15.6” so you’re set for anything, anywhere.\n* **Choose Your Style:** Available in Black-Grey and Black-Blue, with a cool two-tone look that stands out.\n* **Spacious Yet Compact:** With a 25-liter capacity, there’s room for all your essentials without weighing you down.\n* **Built Tough:** YKK zippers mean it’s designed to handle the daily hustle.\n* **Easy to Carry:** Adjustable shoulder straps for all-day comfort.\n* **Extra Protection:** A padded compartment keeps your laptop safe from bumps and drops."
       },
       {
-        "name": "Digital Badge",
-        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
-        "description": "Advanced digital badge"
+        "name": "Arcade Trooper T-shirt",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/e/7/e7c5b9a1c07887f577e3fcf108dcadbaa835f48c.gif",
+        "description": "Get ready to elevate your comfort and showcase your dedication with your next essential gear: The Google Cloud Long-Sleeved Tee! This sleek black, round-neck t-shirt is precisely that: everything you’ve been striving for—incredibly comfortable, undeniably stylish, and a true testament to your commitment to innovation in the cloud.\n\nHere’s a deeper dive into why this long-sleeved tee is an absolute must-have:\n\n* **Supreme Comfort, All Day Long:** Indulge in the luxurious feel of this tee. Crafted from a premium, incredibly soft fabric, it’s designed to be a second skin, perfect for extended coding sessions or laid-back meetups.\n* **Built to Last, Designed for Impact:** With its durable construction and shape-retaining fit, this tee is ready to tackle any challenge, celebrate every victory, and provide ultimate comfort during well-deserved downtime. It’s a garment that performs as relentlessly as you do.\n* **Effortless Style, Ready for Anything:** From strategic planning sessions at your desk to casual meetups with your crew, or simply unwinding after a long day, this long-sleeved tee seamlessly transitions. It adds a touch of modern class and a clear statement of your affiliation with Google Cloud to your everyday life.\n* **Classic Black, Cloud Powered:** Discover the impact of timeless simplicity, elevated by a symbol of innovation. This tee comes in a deep, classic black, serving as the perfect foundation for any outfit while proudly displaying the Google Cloud Logo."
       },
       {
-        "name": "Completion Certificate",
-        "image": "https://images.unsplash.com/photo-1549421263-6064833b071b?w=150&h=150&fit=crop",
-        "description": "Trooper level certificate"
+        "name": "The Arcade Fold & Glow Lamp",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/4/8/485f1f2ed494b1a11ecc3e0328302ade62f56fa7.gif",
+        "description": "The Arcade Fold & Glow Lamp isn’t just another desk accessory. It’s built for those moments when you’re deep into a project, when you lose track of time, or when your laptop light just isn’t cutting it anymore. Quietly designed, but seriously useful.\n\n**Here’s what makes it a perfect addition to your setup:**\n\n1. **Adjustable LED Light**  \nBright enough when you need focus. Easy on the eyes when you don’t. With adjustable brightness, you stay in control no matter how long the session runs.  \n2. **Foldable Neck**  \nYou’ve got flexibility in your work. Now your lamp does too. Compact and easy to position, it fits into any workspace, whether that’s your desk, your kitchen table, or a coffee shop corner.  \n3. **Digital Clock Display**  \nNo need to check your phone every few minutes. The built-in clock keeps you grounded while you’re building, learning, or troubleshooting.  \n4. **Feather Touch Control**  \nOne gentle tap is all it takes. Smooth, simple, no fuss.  \n5. **Built-In Battery**  \nSometimes you don’t want to be tethered to a wall. The in-built battery keeps you powered up, even when the nearest outlet is a little too far away.\n\nThe Arcade Fold & Glow Lamp is for the ones who’ve put in the hours. It’s functional, it looks good, and it quietly says: *you’ve been putting in the work.*"
+      },
+      {
+        "name": "The Google Cloud Pin Badges",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/f/3/f30759a94646c28d1d39c120df479eca868bc1fd.gif",
+        "description": "Whether you’re just getting started or picking up speed, these polished enamel pins are a sleek way to show you’re in the game.\n\n**Why You’ll Want Them:**\n\n* **Seriously Collectible**\nAdd a pop of pride to your backpack, jacket, or lanyard with these clean and colorful pins.\n* **Built to Last**\nSturdy and secure, they’re made to move with you through every challenge.\n* **Quiet Flex**\nNo need to say a word—these pins do the talking."
+      },
+      {
+        "name": "The Arcade Sticker Sheet",
+        "image": "https://placehold.co/800x800/gif?text=No+Image",
+        "description": "The Arcade Sticker Sheet brings your progress to life in pixel form. Think unicorns, umbrellas, planets, and more—all the quirky, nostalgic icons from your Arcade adventure, now on your notebook, laptop, or wherever you feel like repping your skills."
       }
     ]
   },
   {
     "name": "Arcade Ranger",
     "imageUrl": "https://images.unsplash.com/photo-1521791055366-0d553872125f?w=200&h=200&fit=crop",
-    "requiredPoints": 400,
+    "requiredPoints": 65,
     "description": "Master cloud technologies and unlock ranger-tier swag.",
     "goods": [
       {
-        "name": "Google Cloud Hoodie",
-        "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=150&h=150&fit=crop",
-        "description": "Comfortable hoodie with Google Cloud branding"
+        "name": "Arcade Ranger Vacuum Cleaner",
+        "image": "https://placehold.co/800x800/gif?text=No+Image",
+        "description": "Desk mess? Handled.\n\nSnackers, keyboard tappers, mid-meeting crumb catchers — this one’s for you. Placed in **The Ranger Tier,** The Arcade Ranger Acrylic Mini Vacuum keeps your space sharp and distraction-free without making a scene.\n\n**Features:**\n\n* Sleek acrylic finish that blends right in\n* Compact and easy to stash\n* USB rechargeable for no-fuss power\n* Surprisingly strong suction for its size\n* Quick cleanups so you can focus on your next move\n\nLess mess. More focus. All part of the game."
       },
       {
-        "name": "Google Cloud Stickers",
-        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=150&h=150&fit=crop",
-        "description": "Premium sticker pack"
+        "name": "The Arcade Pen Set",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/d/c/dc553e290cfb2f38abbf203b9604a04cba56bfc4.gif",
+        "description": "Four colors. One smooth experience.\n\n* Blue, Green, Yellow, and Red—because ideas come in all shades.\n* Fluid ink, zero skips.\n* Makes to-do lists look good and feel better.\n* Packaged in a collector-worthy Arcade box.\n\nSmall tools. Big wins."
       },
       {
-        "name": "Digital Badge",
-        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
-        "description": "Ranger digital badge"
+        "name": "The Arcade Screen Cleaner",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/5/e/5ee9204feca71683255231a6451de5dc187729a5.gif",
+        "description": "For every screen you tap, swipe, or stare at too long.\n\n* Wipes out smudges, dust, and mystery fingerprints in seconds.\n* Pocket-sized and travel-friendly—ready when you are.\n* Chemical-free, reusable, and easy on your tech.\n* Works on phones, laptops, tablets, TVs—basically, if it has a screen, it’s covered.\n\nA clean screen just hits different."
+      },
+      {
+        "name": "The Arcade Polo T-shirts",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/6/c/6c297ef40a9833d1b9e6d4569018ed8876771bd0.gif",
+        "description": "This sleek black polo is precisely that: everything you’ve been grinding for—incredibly comfortable, undeniably stylish, and a true testament to your dedication. T-shirts will be customized as per the respective tiers. And the best part? There’s still ample time to elevate your status and claim yours!\n\nHere’s a deeper dive into why this polo is an absolute must-have:\n\n**Unrivaled Softness, All-Day Comfort** Experience luxury with every wear. Meticulously crafted from a premium fabric blend with a subtle pique texture, this isn’t just a shirt; it’s a second skin you’ll never want to take off.\n\n**Engineered for Endurance, Styled for Success** Featuring a robust collar and a form-retaining design, this polo is built to withstand countless challenges, celebratory moments, and those well-deserved chill sessions. It’s a garment that performs as hard as you do.\n\n**Effortless Elegance, Any Occasion** From strategic planning sessions at your desk to casual meetups with your crew, or simply unwinding after a long day, this polo seamlessly transitions. It adds a touch of refined class to your everyday life.\n\n**The Quintessential Black Hue** Discover the power of perfect simplicity. This polo comes in a profound, timeless black that acts as the ultimate foundation for any outfit, effortlessly complementing everything in your collection."
+      },
+      {
+        "name": "The Arcade Ranger Backpack",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/a/2/a21bce7b91ea81a89120868eae06cf0d92cb880d.gif",
+        "description": "Simple, reliable, and ready for every kind of day—this backpack keeps your essentials safe and dry while you’re on the move.\n\n* Anti-theft features to keep your valuables secure\n* High-efficiency waterproof fabric for all-weather use\n* Dedicated laptop compartment that opens up to 90 degrees—perfect for quick airport checks\n* Reinforced stitching and smooth double zipper for long-lasting use\n* Adjustable straps and a comfortable handle for daily comfort\n* Versatile design that works for commuting, casual travel, or everyday errands\n\nThis one’s all about smart protection without the bulk."
       }
     ]
   },
   {
     "name": "Arcade Champion",
     "imageUrl": "https://images.unsplash.com/photo-1608662184689-bb542d4a6e4f?w=200&h=200&fit=crop",
-    "requiredPoints": 800,
+    "requiredPoints": 75,
     "description": "Become a cloud champion with exclusive premium rewards.",
     "goods": [
       {
-        "name": "Google Cloud T-shirt",
-        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=150&h=150&fit=crop",
-        "description": "Premium Google Cloud t-shirt"
+        "name": "The Arcade Champion Vacuum Cleaner",
+        "image": "https://placehold.co/800x800/gif?text=No+Image",
+        "description": "Double-duty. Desk ready.\n\nWhy settle for clean when you can have clean *and* charged? Placed in **The Champion Tier,** The Arcade Champion Vacuum Cleaner clears your desk while wirelessly charging your phone. Simple. Useful. Built for Champions.\n\n**Features:**\n\n* Fast suction clears crumbs, dust, and debris in seconds\n* Built-in wireless Qi charging for your phone\n* Compact, grab-and-go design\n* Long battery life for extended use\n* Quick, hassle-free cleanups\n\nArcade Champion tier. Arcade Champion gear."
       },
       {
-        "name": "Google Cloud Water Bottle",
-        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=150&h=150&fit=crop",
-        "description": "Insulated water bottle with Google Cloud logo"
+        "name": "The Arcade Lego® Diary",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/c/7/c72800505f83e0822d8606141e45ddf9657f61d5.gif",
+        "description": "Meet the **Arcade Lego® Diary** — a bold, green journal with playful Lego®-like blocks on the cover, it brings a personal, creative touch to every page.\n\n**Why You’ll Love It:**\n\n* **A Cover That Comes to Life:** Customizable, detachable blocks let you fidget, create, and make the diary uniquely yours.\n* **Made to Stick Around:** Durable materials to match your busiest days and brightest ideas.\n* **All-in-One Diary:** Jot down thoughts, sketch designs, capture inspiration — all in one place.\n* **Unique and Fun:** A notebook that’s as memorable as the ideas inside it."
       },
       {
-        "name": "Google Cloud Hoodie",
-        "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=150&h=150&fit=crop",
-        "description": "Premium hoodie"
+        "name": "The Arcade USB Hub",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/e/7/e7d07f56503776e57228fbc1a0ff33e145100883.gif",
+        "description": "Demonstrating significant engagement and progress within the Google Cloud Arcade. Introducing the **Arcade USB Hub**, engineered for ultimate versatility and durability. This sleek, compact hub isn’t just an accessory; it’s a testament to your mastery and a powerful tool to seamlessly connect all your peripherals.\n\n### Why This Hub is Your Next Essential Gear:\n\n* **Unrivaled Connectivity:** This powerhouse hub transforms a single port into multiple connections, ensuring you’re always ready for anything. It features:  \n  * 3 x USB 2.0 Ports  \n  * 1 x USB 3.0 Port  \n  * 1 x 3.5mm Audio Jack  \n  * 1 x SD Card Reader  \n  * 1 x TF Card Reader  \n  * 1 x USB Type-C Port\n* **Universal Compatibility:** No need to worry about different devices! This hub includes a **Type-C to USB 3.0 adapter**, allowing for effortless connection to both USB-C and traditional USB-A devices. It’s built to support your diverse tech ecosystem.\n* **Premium Craftsmanship:** Just like your dedication to Google Cloud, this hub is built to last. Crafted from **high-grade Aluminium Alloy**, it offers superior heat dissipation and ensures longevity, making it a reliable companion for all your advanced projects.\n* **Sleek Design, Powerful Performance:** Its compact and sleek design makes it a perfect fit for any workspace, reflecting your commitment to both efficiency and style.\n\nAs an **Arcade Champion**, you’ve demonstrated exceptional skill and dedication. The Arcade USB Hub is your tangible reward, a tool that empowers your continued innovation and reinforces your position at the forefront of the cloud community."
       },
       {
-        "name": "Digital Badge",
-        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
-        "description": "Champion digital badge"
+        "name": "The Arcade Polo T-shirts",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/6/c/6c297ef40a9833d1b9e6d4569018ed8876771bd0.gif",
+        "description": "This sleek black polo is precisely that: everything you’ve been grinding for—incredibly comfortable, undeniably stylish, and a true testament to your dedication. T-shirts will be customized as per the respective tiers. And the best part? There’s still ample time to elevate your status and claim yours!\n\nHere’s a deeper dive into why this polo is an absolute must-have:\n\n**Unrivaled Softness, All-Day Comfort** Experience luxury with every wear. Meticulously crafted from a premium fabric blend with a subtle pique texture, this isn’t just a shirt; it’s a second skin you’ll never want to take off.\n\n**Engineered for Endurance, Styled for Success** Featuring a robust collar and a form-retaining design, this polo is built to withstand countless challenges, celebratory moments, and those well-deserved chill sessions. It’s a garment that performs as hard as you do.\n\n**Effortless Elegance, Any Occasion** From strategic planning sessions at your desk to casual meetups with your crew, or simply unwinding after a long day, this polo seamlessly transitions. It adds a touch of refined class to your everyday life.\n\n**The Quintessential Black Hue** Discover the power of perfect simplicity. This polo comes in a profound, timeless black that acts as the ultimate foundation for any outfit, effortlessly complementing everything in your collection."
+      },
+      {
+        "name": "The Arcade Pen Duo",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/1/1/1102cff0afc00a93fa2a5c045da5fb28574b9ec4.gif",
+        "description": "The Arcade Pen Duo isn’t here for small talk. One lights up when your brain’s on fire. The other’s built like your skills — solid, sharp, and hard to miss. Every brainstorm deserves gear that keeps up.\n\n**1) Light-Up Logo Pen**\n\nSleek, modern, and built for multi-tasking. A push of the button lights up the Google Cloud logo while doubling as a screen stylus. The smooth twist-to-write mechanism keeps you writing, while the randomly assigned black or blue body adds a touch of surprise.\n\n**2) Metal Bead Pen**\nSolid, durable, and built to last — just like your Arcade journey. The polished metal body features Google Cloud branding, topped with four vibrant Google-colored beads that give it just enough flair to stand out in any meeting.\n\n**Key Features:**\n\n* **Light-Up Pen:** Illuminated logo, stylus tip, twist-to-write, black or blue body.\n* **Metal Bead Pen:** Durable metal design, colorful Google beads, smooth writing action."
+      },
+      {
+        "name": "The Arcade Champion Backpack",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/6/7/677b8ee0f299595a4015671b272920d75d057841.gif",
+        "description": "For the ones who plan ahead and like their gear to work as hard as they do, this backpack is all about flexibility and function.\n\n* Made from premium, durable fabric\n* Expands from 20L to 25L when fully unwrapped\n* Easy-access front pocket for essentials\n* Smart locking hook plus dual anti-theft closure (secure clip + fold design)\n* Padded, anti-sweat back panel for all-day comfort\n* Built-in luggage strap for easy travel\n* Ergonomic fit that holds up through long days and packed schedules\n* Dedicated laptop compartment to keep your tech protected\n\nA backpack that keeps up, adapts, and gets the job done."
       }
     ]
   },
   {
     "name": "Arcade Legend",
     "imageUrl": "https://images.unsplash.com/photo-1586244439413-bc2288941dda?w=200&h=200&fit=crop",
-    "requiredPoints": 1500,
+    "requiredPoints": 85,
     "description": "Achieve legendary status with the ultimate swag collection.",
     "goods": [
       {
-        "name": "Google Cloud Backpack",
-        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=150&h=150&fit=crop",
-        "description": "Premium backpack with Google Cloud branding"
+        "name": "The Arcade Polo T-shirts",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/6/c/6c297ef40a9833d1b9e6d4569018ed8876771bd0.gif",
+        "description": "This sleek black polo is precisely that: everything you’ve been grinding for—incredibly comfortable, undeniably stylish, and a true testament to your dedication. T-shirts will be customized as per the respective tiers. And the best part? There’s still ample time to elevate your status and claim yours!\n\nHere’s a deeper dive into why this polo is an absolute must-have:\n\n**Unrivaled Softness, All-Day Comfort** Experience luxury with every wear. Meticulously crafted from a premium fabric blend with a subtle pique texture, this isn’t just a shirt; it’s a second skin you’ll never want to take off.\n\n**Engineered for Endurance, Styled for Success** Featuring a robust collar and a form-retaining design, this polo is built to withstand countless challenges, celebratory moments, and those well-deserved chill sessions. It’s a garment that performs as hard as you do.\n\n**Effortless Elegance, Any Occasion** From strategic planning sessions at your desk to casual meetups with your crew, or simply unwinding after a long day, this polo seamlessly transitions. It adds a touch of refined class to your everyday life.\n\n**The Quintessential Black Hue** Discover the power of perfect simplicity. This polo comes in a profound, timeless black that acts as the ultimate foundation for any outfit, effortlessly complementing everything in your collection."
       },
       {
-        "name": "Google Cloud Notebook",
-        "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=150&h=150&fit=crop",
-        "description": "High-quality notebook for your cloud journey"
+        "name": "The Arcade Thermal Printer",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/e/2/e2cb0ef01dc82a03b243d7b453171740e9baef02.gif",
+        "description": "Whether you’re into organizing, journaling, creating, or just printing for fun, this pocket-sized printer makes it easy (and ink-free).\n\n**Why It Deserves a Spot on Your Desk (or in your bag):**\n\nBring your ideas to life wherever you are with this portable, inkless Bluetooth thermal printer. Compact and easy to carry, it pairs quickly with your smartphone or tablet — no messy ink cartridges or bulky cables required. With USB charging, it’s always ready when inspiration strikes.\n\n**Key Features:**\n\n* **Inkless Technology:** No refills. No mess. Just print.\n* **Bluetooth Connectivity:** Connect wirelessly to your devices with ease.\n* **USB Charging:** Power up anytime, anywhere.\n* **Compact & Portable:** Lightweight design perfect for on-the-go creativity.\n\nThe Arcade Thermal Printer isn’t just useful—it’s actually pretty fun."
       },
       {
-        "name": "Google Cloud T-shirt",
-        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=150&h=150&fit=crop",
-        "description": "Exclusive legend t-shirt"
+        "name": "The Arcade Legend Vacuum Cleaner",
+        "image": "https://placehold.co/800x800/gif?text=No+Image",
+        "description": "Your ultimate desktop cleaning companion.\n\nPlaced in **The Legend Tier,** this Intensity Mini Vacuum offers serious cleaning power with adjustable suction levels to handle everything from fine dust to post-snack debris.\n\n**Features:**\n\n* Heavy-duty suction for thorough cleaning\n* Adjustable intensity for different tasks\n* Lightweight, compact, and easy to maneuver\n* Perfect for desktops, keyboards, shelves, and more\n\nLegend-level cleaning for your growing Arcade collection."
       },
       {
-        "name": "Google Cloud Water Bottle",
-        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=150&h=150&fit=crop",
-        "description": "Premium water bottle"
+        "name": "The Arcade 20-in-1 Cleaning Kit",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/6/c/6cbd131fc808678a6aa533ef279e4fa31be24983.gif",
+        "description": "Introducing the **Arcade 20-in-1 Cleaning Kit**, the ultimate all-in-one solution packed with everything you need to keep your devices spotless, safe, and performing at their best. From laptops to gaming gear, this kit handles it all with precision and ease.\n\n**Why You’ll Love This Kit:**\n\n1. **Complete Cleaning Kit**\nWith 20 specialized tools, including soft microfiber cloths, delicate brushes, dust blowers, and more, you can clean every nook, port, screen, and keyboard without breaking a sweat.\n2. **Safe & Gentle on Your Gear**\nNo harsh chemicals or abrasive scrubbing here. Designed to protect even the most delicate surfaces while eliminating dirt, dust, and smudges.\n3. **Ergonomic & Precise**\nEach tool fits comfortably in your hand and reaches the tightest corners and crevices your devices hide. Cleaning has never been this easy or satisfying.\n4. **Compact & Organized**\nAll your cleaning essentials, neatly packed in one kit you can keep on your desk or carry anywhere—because taking care of your gear is part of the grind."
       },
       {
-        "name": "Digital Badge",
-        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=150&h=150&fit=crop",
-        "description": "Legendary digital badge"
+        "name": "The Arcade Lumin",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/1/d/1d297c9365fc006368b85aa4527708e5f2241568.gif",
+        "description": "Every twist of the filament inside the Arcade Lumin traces back to the hours you’ve spent building skills, clearing challenges, and leveling up. The Google Cloud logo glows from within — not just as decoration, but as a quiet flex of how far you’ve come.\n\nFull brightness when you’re deep in your next project. A soft glow when you’re kicking back, knowing you’ve earned it. And with every press, it adjusts to your vibe — no app, no fuss.\n\nCharge it up, light it up, and let your skills do the talking.\n\n**Key Features:**\n\n* **Filament Design:** Uniquely shaped as the Google Cloud logo.\n* **Light Settings:** Full ON, Night Lamp, and OFF.\n* **Dimmer Function:** Long press to adjust brightness from 10% to 100%.\n* **Charging:** Type-C cable included.\n* **Charging Indicator:** Red light for charging, green light for fully charged."
+      },
+      {
+        "name": "The Arcade Pen Duo",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/1/1/1102cff0afc00a93fa2a5c045da5fb28574b9ec4.gif",
+        "description": "The Arcade Pen Duo isn’t here for small talk. One lights up when your brain’s on fire. The other’s built like your skills — solid, sharp, and hard to miss. Every brainstorm deserves gear that keeps up.\n\n**1) Light-Up Logo Pen**\n\nSleek, modern, and built for multi-tasking. A push of the button lights up the Google Cloud logo while doubling as a screen stylus. The smooth twist-to-write mechanism keeps you writing, while the randomly assigned black or blue body adds a touch of surprise.\n\n**2) Metal Bead Pen**\nSolid, durable, and built to last — just like your Arcade journey. The polished metal body features Google Cloud branding, topped with four vibrant Google-colored beads that give it just enough flair to stand out in any meeting.\n\n**Key Features:**\n\n* **Light-Up Pen:** Illuminated logo, stylus tip, twist-to-write, black or blue body.\n* **Metal Bead Pen:** Durable metal design, colorful Google beads, smooth writing action."
+      },
+      {
+        "name": "The Arcade Legend Backpack",
+        "image": "https://d2yds90mtvelsl.cloudfront.net/original/3X/c/0/c0679ba7f085e91ecc0cfab01804b0bac4e177a9.gif",
+        "description": "Built for big ideas, busy days, and long-haul travel.\n* Spacious 32L capacity with two main compartments\n* Waterproof fabric to protect your gear in any weather\n* One compartment for books, folders, and daily essentials\n* Another with a padded sleeve for your laptop or tablet\n* Two front pockets and multiple inner compartments to stay organized\n* Integrated Type-C and USB-A outlets so you can charge devices on the go\n* Breathable shoulder straps for better airflow and all-day comfort\n* Trolley strap and sturdy grab handle for easy airport navigation\nWhether you’re heading to work, a co-working space, or your next flight—this bag’s ready.\nThe Arcade season wraps up in just a few hours. If you haven’t hit your desired tier yet, now’s the time to finish strong and claim the backpack that matches your journey."
       }
     ]
   }
