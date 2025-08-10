@@ -309,17 +309,6 @@
     "labs": []
   },
   {
-    "id": 648,
-    "title": "Implement Load Balancing on Compute Engine",
-    "category": "skill",
-    "imageUrl": "https://cdn.qwiklabs.com/QlR8VSC38qpQUHJPs6pq2%2F330l9KejU8QDuxYF7cewo%3D",
-    "totalLabs": 4,
-    "totalPoints": 0.5,
-    "accessCode": null,
-    "challengeUrl": "https://www.cloudskillsboost.google/course_templates/648",
-    "labs": []
-  },
-  {
     "id": 700,
     "title": "Cloud Speech API: 3 Ways",
     "category": "skill",
@@ -445,7 +434,7 @@
     "title": "Implementing Cloud Load Balancing for Compute Engine",
     "category": "skill",
     "imageUrl": "https://cdn.qwiklabs.com/BTn3%2BnY0zheDQKC5ilZWSc%2FwOYE5j0%2Bws1EkCSIKFQg%3D",
-    "totalLabs": -1,
+    "totalLabs": 4,
     "totalPoints": 0.5,
     "accessCode": null,
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/648",
