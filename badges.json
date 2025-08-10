@@ -661,7 +661,7 @@
     "labs": []
   },
   {
-    "id": "646",
+    "id": 646,
     "title": "Classify Images with TensorFlow on Google Cloud",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/646",
     "category": "skill",
@@ -672,7 +672,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "623",
+    "id": 623,
     "title": "Derive Insights from BigQuery Data",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/623",
     "category": "skill",
@@ -683,7 +683,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "657",
+    "id": 657,
     "title": "Share Data Using Google Data Cloud",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/657",
     "category": "skill",
@@ -694,7 +694,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "629",
+    "id": 629,
     "title": "Migrate MySQL data to Cloud SQL using Database Migration Service",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/629",
     "category": "skill",
@@ -705,7 +705,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "630",
+    "id": 630,
     "title": "Use Machine Learning APIs on Google Cloud",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/630",
     "category": "skill",
@@ -716,7 +716,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "759",
+    "id": 759,
     "title": "Mitigate Threats and Vulnerabilities with Security Command Center",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/759",
     "category": "skill",
@@ -727,7 +727,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "761",
+    "id": 761,
     "title": "Monitor Environments with Google Cloud Managed Service for Prometheus",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/761",
     "category": "skill",
@@ -738,7 +738,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "631",
+    "id": 631,
     "title": "Prepare Data for ML APIs on Google Cloud",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/631",
     "category": "skill",
@@ -749,7 +749,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "638",
+    "id": 638,
     "title": "Build a Website on Google Cloud",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/638",
     "category": "skill",
@@ -760,7 +760,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "640",
+    "id": 640,
     "title": "Cloud Architecture: Design, Implement, and Manage",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/640",
     "category": "skill",
@@ -771,7 +771,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "654",
+    "id": 654,
     "title": "Build a Secure Google Cloud Network",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/654",
     "category": "skill",
@@ -782,7 +782,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "627",
+    "id": 627,
     "title": "Engineer Data for Predictive Modeling with BigQuery ML",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/627",
     "category": "skill",
@@ -793,7 +793,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "716",
+    "id": 716,
     "title": "Implement DevOps Workflows in Google Cloud",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/716",
     "category": "skill",
@@ -804,7 +804,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "626",
+    "id": 626,
     "title": "Create ML Models with BigQuery ML",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/626",
     "category": "skill",
@@ -815,7 +815,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "624",
+    "id": 624,
     "title": "Build a Data Warehouse with BigQuery",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/624",
     "category": "skill",
@@ -826,7 +826,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "645",
+    "id": 645,
     "title": "Implement Cloud Security Fundamentals on Google Cloud",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/645",
     "category": "skill",
@@ -837,7 +837,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "741",
+    "id": 741,
     "title": "Develop Serverless Applications on Cloud Run",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/741",
     "category": "skill",
@@ -848,7 +848,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "655",
+    "id": 655,
     "title": "Optimize Costs for Google Kubernetes Engine",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/655",
     "category": "skill",
@@ -859,7 +859,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "628",
+    "id": 628,
     "title": "Prepare Data for Looker Dashboards and Reports",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/628",
     "category": "skill",
@@ -870,7 +870,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "661",
+    "id": 661,
     "title": "Deploy and Manage Apigee X",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/661",
     "category": "skill",
@@ -881,7 +881,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "684",
+    "id": 684,
     "title": "Build and Deploy Machine Learning Solutions on Vertex AI",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/684",
     "category": "skill",
@@ -892,7 +892,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "652",
+    "id": 652,
     "title": "Create and Manage Cloud SQL for PostgreSQL Instances",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/652",
     "category": "skill",
@@ -903,7 +903,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "714",
+    "id": 714,
     "title": "Develop and Secure APIs with Apigee X",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/714",
     "category": "skill",
@@ -914,7 +914,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "651",
+    "id": 651,
     "title": "Manage Data Models in Looker",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/651",
     "category": "skill",
@@ -925,7 +925,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "644",
+    "id": 644,
     "title": "Detect Manufacturing Defects using Visual Inspection AI",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/644",
     "category": "skill",
@@ -936,7 +936,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "674",
+    "id": 674,
     "title": "Automate Data Capture at Scale with Document AI",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/674",
     "category": "skill",
@@ -947,7 +947,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "643",
+    "id": 643,
     "title": "Create and Manage Cloud Spanner Instances",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/643",
     "category": "skill",
@@ -958,7 +958,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "691",
+    "id": 691,
     "title": "Implement CI/CD Pipelines on Google Cloud",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/691",
     "category": "skill",
@@ -969,7 +969,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "650",
+    "id": 650,
     "title": "Create and Manage Bigtable Instances",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/650",
     "category": "skill",
@@ -980,7 +980,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "687",
+    "id": 687,
     "title": "Build Google Cloud Infrastructure for AWS Professionals",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/687",
     "category": "skill",
@@ -991,7 +991,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "688",
+    "id": 688,
     "title": "Build Google Cloud Infrastructure for Azure Professionals",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/688",
     "category": "skill",
@@ -1002,7 +1002,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "632",
+    "id": 632,
     "title": "Analyze BigQuery Data in Connected Sheets",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/632",
     "category": "skill",
@@ -1013,7 +1013,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "635",
+    "id": 635,
     "title": "App Building with AppSheet",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/635",
     "category": "skill",
@@ -1024,7 +1024,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "727",
+    "id": 727,
     "title": "Get Started with Eventarc",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/727",
     "category": "skill",
@@ -1035,7 +1035,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "634",
+    "id": 634,
     "title": "Analyze Speech and Language with Google APIs",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/634",
     "category": "skill",
@@ -1046,7 +1046,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "704",
+    "id": 704,
     "title": "Create a Secure Data Lake on Cloud Storage",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/704",
     "category": "skill",
@@ -1057,7 +1057,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "753",
+    "id": 753,
     "title": "Tag and Discover BigLake Data",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/753",
     "category": "skill",
@@ -1068,7 +1068,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "751",
+    "id": 751,
     "title": "Secure BigLake Data",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/751",
     "category": "skill",
@@ -1079,7 +1079,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "633",
+    "id": 633,
     "title": "Analyze Images with the Cloud Vision API",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/633",
     "category": "skill",
@@ -1090,7 +1090,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "750",
+    "id": 750,
     "title": "Get Started with Sensitive Data Protection",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/750",
     "category": "skill",
@@ -1101,7 +1101,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "715",
+    "id": 715,
     "title": "Develop with Apps Script and AppSheet",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/715",
     "category": "skill",
@@ -1112,7 +1112,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "667",
+    "id": 667,
     "title": "Analyze Sentiment with Natural Language API",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/667",
     "category": "skill",
@@ -1123,7 +1123,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "681",
+    "id": 681,
     "title": "Build a Data Mesh with Dataplex",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/681",
     "category": "skill",
@@ -1134,7 +1134,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "702",
+    "id": 702,
     "title": "Configure Service Accounts and IAM Roles for Google Cloud",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/702",
     "category": "skill",
@@ -1145,7 +1145,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "686",
+    "id": 686,
     "title": "Build Custom Processors with Document AI",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/686",
     "category": "skill",
@@ -1156,7 +1156,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "978",
+    "id": 978,
     "title": "Develop GenAI Apps with Gemini and Streamlit",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/978",
     "category": "skill",
@@ -1167,7 +1167,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "981",
+    "id": 981,
     "title": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/981",
     "category": "skill",
@@ -1178,7 +1178,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "1076",
+    "id": 1076,
     "title": "Build Real World AI Applications with Gemini and Imagen",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/1076",
     "category": "skill",
@@ -1189,7 +1189,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "642",
+    "id": 642,
     "title": "Create and Manage AlloyDB Instances",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/642",
     "category": "skill",
@@ -1200,7 +1200,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "1164",
+    "id": 1164,
     "title": "Secure Software Delivery",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/1164",
     "category": "skill",
@@ -1211,7 +1211,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "784",
+    "id": 784,
     "title": "Protect Cloud Traffic with Chrome Enterprise Premium Security",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/784",
     "category": "skill",
@@ -1222,7 +1222,7 @@
     "imageUrl": "https://placehold.co/500x500?text=Image+Skill+Badge"
   },
   {
-    "id": "976",
+    "id": 976,
     "title": "Prompt Design in Vertex AI",
     "challengeUrl": "https://www.cloudskillsboost.google/course_templates/976",
     "category": "skill",
