@@ -1,44 +1,94 @@
 [
-    {
-      "id": 1,
-      "name": "Ikhsan Maulana",
-      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&h=150&fit=crop&crop=face",
-      "isActive": true,
-      "skillBadges": [
-        { "id": 754, "earnedDate": "2024-12-10T10:00:00Z" },
-        { "id": 671, "earnedDate": "2024-12-10T10:00:00Z" },
-        { "id": 728, "earnedDate": "2024-12-10T10:00:00Z" },
-        { "id": 725, "earnedDate": "2024-12-10T10:00:00Z" },
-        { "id": 755, "earnedDate": "2024-12-10T10:00:00Z" },
-        { "id": 662, "earnedDate": "2024-12-10T10:00:00Z" },
-        { "id": 641, "earnedDate": "2024-12-10T10:00:00Z" },
-        { "id": 748, "earnedDate": "2024-12-10T10:00:00Z" },
-        { "id": 726, "earnedDate": "2024-12-10T10:00:00Z" },
-        { "id": 756, "earnedDate": "2024-12-10T10:00:00Z" }
-      ],
-      "triviaBadges": [
-        { "id": 6314, "earnedDate": "2024-12-12T10:00:00Z" },
-        { "id": 6315, "earnedDate": "2024-12-12T10:00:00Z" },
-        { "id": 6316, "earnedDate": "2024-12-12T10:00:00Z" },
-        { "id": 6317, "earnedDate": "2024-12-12T10:00:00Z" }
-      ],
-      "arcadeBadges": [
-        { "id": 6310, "earnedDate": "2024-12-15T10:00:00Z" },
-        { "id": 6311, "earnedDate": "2024-12-15T10:00:00Z" },
-        { "id": 6312, "earnedDate": "2024-12-15T10:00:00Z" },
-        { "id": 6313, "earnedDate": "2024-12-15T10:00:00Z" },
-        { "id": 6375, "earnedDate": "2024-12-15T10:00:00Z" }
-      ],
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/1"
-    },
-    {
-      "id": 2,
-      "name": "John Doe",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
-      "isActive": false,
-      "skillBadges": [],
-      "triviaBadges": [],
-      "arcadeBadges": [],
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/2"
-    }
-  ]
+  {
+    "id": "36ed5a98-8304-447f-9ed1-79cd73fdd693",
+    "name": "Ikhsan Maulana",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&h=150&fit=crop&crop=face",
+    "skillBadges": [
+      { "id": 754, "earnedDate": "2024-12-10T10:00:00Z" },
+      { "id": 671, "earnedDate": "2024-12-10T10:00:00Z" },
+      { "id": 728, "earnedDate": "2024-12-10T10:00:00Z" },
+      { "id": 725, "earnedDate": "2024-12-10T10:00:00Z" },
+      { "id": 755, "earnedDate": "2024-12-10T10:00:00Z" },
+      { "id": 662, "earnedDate": "2024-12-10T10:00:00Z" },
+      { "id": 641, "earnedDate": "2024-12-10T10:00:00Z" },
+      { "id": 748, "earnedDate": "2024-12-10T10:00:00Z" },
+      { "id": 726, "earnedDate": "2024-12-10T10:00:00Z" },
+      { "id": 756, "earnedDate": "2024-12-10T10:00:00Z" }
+    ],
+    "triviaBadges": [
+      { "id": 6314, "earnedDate": "2024-12-12T10:00:00Z" },
+      { "id": 6315, "earnedDate": "2024-12-12T10:00:00Z" },
+      { "id": 6316, "earnedDate": "2024-12-12T10:00:00Z" },
+      { "id": 6317, "earnedDate": "2024-12-12T10:00:00Z" }
+    ],
+    "arcadeBadges": [
+      { "id": 6310, "earnedDate": "2024-12-15T10:00:00Z" },
+      { "id": 6311, "earnedDate": "2024-12-15T10:00:00Z" },
+      { "id": 6312, "earnedDate": "2024-12-15T10:00:00Z" },
+      { "id": 6313, "earnedDate": "2024-12-15T10:00:00Z" },
+      { "id": 6375, "earnedDate": "2024-12-15T10:00:00Z" }
+    ],
+    "profileUrl": "https://www.cloudskillsboost.google/public_profiles/36ed5a98-8304-447f-9ed1-79cd73fdd693"
+  },
+  {
+    "id": "2",
+    "name": "John Doe",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "skillBadges": [],
+    "triviaBadges": [],
+    "arcadeBadges": [],
+    "profileUrl": "https://www.cloudskillsboost.google/public_profiles/2"
+  },
+  {
+    "id": "93af73c5-91ed-4416-b327-a5e620c15f4f",
+    "name": "Fajar Ihsana",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLMXmaF9-S0P_e2so8-gmeHnClv6VcOh4bEvSWqGo5ayAQvdiFq=s320-c",
+    "skillBadges": [
+      { "id": 656, "earnedDate": "2025-08-04T00:00:00.000Z" },
+      { "id": 959, "earnedDate": "2025-08-04T00:00:00.000Z" },
+      { "id": 639, "earnedDate": "2025-08-03T00:00:00.000Z" },
+      { "id": 705, "earnedDate": "2025-08-03T00:00:00.000Z" },
+      { "id": 726, "earnedDate": "2025-08-03T00:00:00.000Z" },
+      { "id": 649, "earnedDate": "2025-08-03T00:00:00.000Z" },
+      { "id": 783, "earnedDate": "2025-08-02T00:00:00.000Z" },
+      { "id": 663, "earnedDate": "2025-08-02T00:00:00.000Z" },
+      { "id": 625, "earnedDate": "2025-07-25T00:00:00.000Z" },
+      { "id": 648, "earnedDate": "2025-07-25T00:00:00.000Z" },
+      { "id": 641, "earnedDate": "2025-07-24T00:00:00.000Z" },
+      { "id": 749, "earnedDate": "2025-07-24T00:00:00.000Z" },
+      { "id": 653, "earnedDate": "2025-07-24T00:00:00.000Z" },
+      { "id": 647, "earnedDate": "2025-07-23T00:00:00.000Z" },
+      { "id": 756, "earnedDate": "2025-07-23T00:00:00.000Z" },
+      { "id": 755, "earnedDate": "2025-07-22T00:00:00.000Z" },
+      { "id": 696, "earnedDate": "2025-07-22T00:00:00.000Z" },
+      { "id": 776, "earnedDate": "2025-07-22T00:00:00.000Z" },
+      { "id": 676, "earnedDate": "2025-07-22T00:00:00.000Z" },
+      { "id": 747, "earnedDate": "2025-07-22T00:00:00.000Z" },
+      { "id": 636, "earnedDate": "2025-07-22T00:00:00.000Z" },
+      { "id": 637, "earnedDate": "2025-07-22T00:00:00.000Z" },
+      { "id": 725, "earnedDate": "2025-07-21T00:00:00.000Z" },
+      { "id": 671, "earnedDate": "2025-07-21T00:00:00.000Z" },
+      { "id": 662, "earnedDate": "2025-07-20T00:00:00.000Z" },
+      { "id": 658, "earnedDate": "2025-07-20T00:00:00.000Z" },
+      { "id": 728, "earnedDate": "2025-07-20T00:00:00.000Z" },
+      { "id": 754, "earnedDate": "2025-07-18T00:00:00.000Z" }
+    ],
+    "triviaBadges": [
+      { "id": 6398, "earnedDate": "2025-08-09T00:00:00.000Z" },
+      { "id": 6397, "earnedDate": "2025-08-05T00:00:00.000Z" },
+      { "id": 6317, "earnedDate": "2025-07-19T00:00:00.000Z" },
+      { "id": 6316, "earnedDate": "2025-07-18T00:00:00.000Z" },
+      { "id": 6315, "earnedDate": "2025-07-16T00:00:00.000Z" },
+      { "id": 6314, "earnedDate": "2025-07-16T00:00:00.000Z" }
+    ],
+    "arcadeBadges": [
+      { "id": 6394, "earnedDate": "2025-08-09T00:00:00.000Z" },
+      { "id": 6375, "earnedDate": "2025-07-23T00:00:00.000Z" },
+      { "id": 6313, "earnedDate": "2025-07-21T00:00:00.000Z" },
+      { "id": 6312, "earnedDate": "2025-07-19T00:00:00.000Z" },
+      { "id": 6311, "earnedDate": "2025-07-18T00:00:00.000Z" },
+      { "id": 6310, "earnedDate": "2025-07-16T00:00:00.000Z" }
+    ],
+    "profileUrl": "https://www.cloudskillsboost.google/public_profiles/93af73c5-91ed-4416-b327-a5e620c15f4f"
+  }
+]
