@@ -1,7 +1,7 @@
 [
   {
     "name": "Arcade Novice",
-    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=200&h=200&fit=crop",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/deepanshu-prajapati01/image-host/ArcadeCalc/swags/tier1/group-v2.png",
     "requiredPoints": 20,
     "description": "Welcome to the Cloud Arcade! Get started with basic swag.",
     "goods": [
@@ -29,7 +29,7 @@
   },
   {
     "name": "Arcade Trooper",
-    "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=200&h=200&fit=crop",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/deepanshu-prajapati01/image-host/ArcadeCalc/swags/tier2/group-v3.png",
     "requiredPoints": 40,
     "description": "Level up your cloud skills and earn trooper-level rewards.",
     "goods": [
@@ -62,7 +62,7 @@
   },
   {
     "name": "Arcade Ranger",
-    "imageUrl": "https://images.unsplash.com/photo-1521791055366-0d553872125f?w=200&h=200&fit=crop",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/deepanshu-prajapati01/image-host/ArcadeCalc/swags/tier3/group-v3.png",
     "requiredPoints": 65,
     "description": "Master cloud technologies and unlock ranger-tier swag.",
     "goods": [
@@ -95,7 +95,7 @@
   },
   {
     "name": "Arcade Champion",
-    "imageUrl": "https://images.unsplash.com/photo-1608662184689-bb542d4a6e4f?w=200&h=200&fit=crop",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/deepanshu-prajapati01/image-host/ArcadeCalc/swags/tier4/group-v5.png",
     "requiredPoints": 75,
     "description": "Become a cloud champion with exclusive premium rewards.",
     "goods": [
@@ -133,7 +133,7 @@
   },
   {
     "name": "Arcade Legend",
-    "imageUrl": "https://images.unsplash.com/photo-1586244439413-bc2288941dda?w=200&h=200&fit=crop",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/deepanshu-prajapati01/image-host/ArcadeCalc/swags/tier5/group-v7.png",
     "requiredPoints": 85,
     "description": "Achieve legendary status with the ultimate swag collection.",
     "goods": [
